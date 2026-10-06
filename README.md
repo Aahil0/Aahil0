@@ -24,6 +24,7 @@ AI/ML • recommendation systems • quantitative finance • backend engineerin
 
 | Project | What it does | Focus |
 | :--- | :--- | :--- |
+| [Credit Risk Intelligence](https://github.com/Aahil0/credit-risk-intelligence) · [Live demo](https://credit-risk-intelligence-ml.streamlit.app/) | Estimates credit default probability with calibrated ML, SHAP explanations, and demographic auditing. Educational decision-support demo. | Python · Machine Learning · FastAPI · Streamlit |
 | [Nifty 50 Multi-Factor Screener](https://github.com/Aahil0/nifty50-multi-factor-screener) | Ranks Nifty 50 stocks using value, momentum, quality, and low-volatility factors, with interactive analytics. | Python · pandas · NumPy · Plotly |
 | [Movie Recommendation System](https://github.com/Aahil0/movie-recommendation-system) | Explores content-based recommendations, collaborative filtering, SVD, and hybrid approaches. | Machine learning · Recommendations |
 | [Comps Analysis Tool](https://github.com/Aahil0/comps-analysis-tool) | Derives equity valuation ranges from peer multiples and visualizes them with a football field chart. | Python · Financial analysis |
